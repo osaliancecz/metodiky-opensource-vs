@@ -1,0 +1,38 @@
+#+DATE: <2020-08-14 pá>  
+#+TITLE: Název
+#+AUTHOR: autor
+#+PRIORITIES: 1 5 3 
+#+LANGUAGE: cs
+#+OPTIONS: H:4 toc:nil prop:1  
+#+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a@)
+#+STARTUP: fninline
+* ROZPRACOVANÉ Desatero hlavních kroků k otevřeným řešením ICT v úřadu
+  :LOGBOOK:
+  CLOCK: [2021-12-10 Fri 07:38]--[2021-12-10 Fri 07:39] =>  0:01
+  CLOCK: [2021-09-30 Thu 10:52]--[2021-09-30 Thu 10:52] =>  0:00
+  :END:
+Otevřenost je důležitá. Stejně důležité ale také je, jak k ní správně přistupovat. Existuje deset hlavních kroků, které by se měly obecně dodržet:
+
+
+1. Musí se na to myslet, a to na všech úrovních
+1. Při přebírání principů a zásad z IKČR je správně pochopit a adoptovat
+1. Do svých principů si dát i ty k otevřenosti a OS
+1. Zahrnout OS do své koncepce, architektury, standardů a požadavků
+1. Vyžadovat OS ve svých řešeních po dodavatelích
+1. Zavést pozitivní bonifikaci otevřených řešení v hodnocení nabídek
+1. Udělat si asessment toho, kde už OS mám a kde ho můžu a chci mít
+1. Vybudovat si závazná technologická prostředí a vyžadovat je pro nové dodávky
+1. Při každé poptávce zjistit, zda existuje OS a primárně poptat ten, teprve pak proprietární řešení
+1. Pokud nebude řešení OS, požadovat jeho uvolnění, kódy, práva
+1. ...a tohle vše uplatnit i pro stávající systémy a řešení
+** NEZAHÁJENO Musí se na to myslet, a to na všech úrovních
+** NEZAHÁJENO Při přebírání principů a zásad z IKČR je správně pochopit a adoptovat
+** NEZAHÁJENO Do svých principů si dát i ty k otevřenosti a OS
+** NEZAHÁJENO Zahrnout OS do své koncepce, architektury, standardů a požadavků
+** NEZAHÁJENO Vyžadovat OS ve svých řešeních po dodavatelích
+** NEZAHÁJENO Zavést pozitivní bonifikaci otevřených řešení v hodnocení nabídek
+** NEZAHÁJENO Udělat si asessment toho, kde už OS mám a kde ho můžu a chci mít
+** NEZAHÁJENO Vybudovat si závazná technologická prostředí a vyžadovat je pro nové dodávky
+** NEZAHÁJENO Při každé poptávce zjistit, zda existuje OS a primárně poptat ten, teprve pak proprietární řešení
+** NEZAHÁJENO Pokud nebude řešení otevřené, požadovat jeho uvolnění, kódy, práva
+** NEZAHÁJENO a tohle vše uplatnit i pro stávající systémy a řešení
