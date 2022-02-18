@@ -1,0 +1,9 @@
+#+CATEGORY: Desatero open
+#+DATE: <2020-08-14 pá>
+#+TITLE: Název
+#+AUTHOR: autor
+#+PRIORITIES: 1 5 3
+#+LANGUAGE: cs
+#+OPTIONS: H:4 toc:nil prop:1
+#+TODO: NEZAHÁJENO(n) ZADÁNO(z) ROZPRACOVANÉ(r) DODĚLAT(d) POKOREKTUŘE UPRAVOVÁNO(u) | KEKOREKTUŘE(k) HOTOVO(h) FINÁLNÍ(f) AKTUALIZOVÁNO(a@)
+#+STARTUP: fninline
