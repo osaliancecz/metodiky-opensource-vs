@@ -1,5 +1,3 @@
-Open-source Aliance
-
 # Vzorové požadavky na ICT zakázky - otevřenost řešení
 
 - Předmět: Sada vzorových požadavků pro zadávací dokumentaci a požadavky na předmět u veřejných zakázekk otevřenosti
@@ -7,7 +5,6 @@ Open-source Aliance
 - Autoři: Pracovní výbor pro architekturu a eGovernment Open-source Aliance a partneři
 - Určeno pro: veřejné zadavatele, orgány veřejné moci a subjekty připravující dokumentaci veřejných zakázek, Open-source Aliance
 - Důvod předložení: dílčí cíl 2.8 Informační koncepce ČR a potřeba definovat sadu požadavků pro splnění zásad 16 a 17 IKČR a souvisejících architek
-
 
 ## Úvod
 
@@ -29,8 +26,8 @@ IKČR Přináší kupříkladu povinnost využívání otevřeného software a o
 
 Stěžejními zásadamy, které přesně deklarují a popisují takové požadavky, jsou:
 
-* Zásada řízení ICT Z16: Využívání otevřeného software a standardů
-* Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli
+- Zásada řízení ICT Z16: Využívání otevřeného software a standardů
+- Zásada řízení ICT Z17: Podpora vyváženého partnerství s dodavateli
 
 Výše uvedené zásady kladou důraz na maximální otevřenost, na kvalitní vztahy všech zainteresovaných subjektů. Tyto faktory zakládají transparentní a do budoucna rovné prostředí pro všechny strany. Vzniká tak kvalitní platforma pro všestrannou spolupráci.
 
