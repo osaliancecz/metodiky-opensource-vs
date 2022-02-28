@@ -68,7 +68,8 @@ Způsoby konkrétní realizace mohou vypadat kupříkladu takto:
 Organizace by měla mít přehled o svých ICT řešeních. To platí nejen pro komplexní informační systémy, ale i pro aplikace a infrastrukturní technologie. Součástí tohoto asessmentu má být i znalost a přehled, zda a kde a v jaké míře již organizace otevřená řešení využívá.
 
 To může využít pro argumentaci, že si související principy a zásady otevřenosti plní, ale může to být i základ pro větší otevírání ICT řešení v budoucnu. Velice často se setkáváme s tím, že organizace ani netuší, kde už open-source řešení či platformy využívají a nedokážou si tak ani částečnou otevřenost dostatečně obhájit.
-** NEZAHÁJENO Vybudovat si závazná technologická prostředí a vyžadovat je pro nové dodávky
+** ROZPRACOVANÉ Vybudovat si závazná technologická prostředí a vyžadovat je pro nové dodávky
+Organizace musí mít v rámci své informační koncepce jasně popsány zásady pro své technologické prostředí, ve kterém informační systémy provozuje a do budoucna bude provozovat. Tyto zásady je organizace povinna zavést pro stávající informační systémy a vybudovat tak závazné technologické prostředí pro jejich bezpečný a bezproblémový chod. V rámci vývoje a akvizice nových informačních systémů musí pak organizace tyto zásady dodržovat a jejich požadavky promítnout do poptávek.
 ** NEZAHÁJENO Při každé poptávce zjistit, zda existuje OS a primárně poptat ten, teprve pak proprietární řešení
 ** NEZAHÁJENO Pokud nebude řešení otevřené, požadovat jeho uvolnění, kódy, práva
 ** ROZPRACOVANÉ a tohle vše uplatnit i pro stávající systémy a řešení
