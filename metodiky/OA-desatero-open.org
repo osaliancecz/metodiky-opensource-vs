@@ -59,8 +59,10 @@ Způsoby konkrétní realizace mohou vypadat kupříkladu takto:
     - Ve své IK nezapomenu ani na zásady, principy a konkrétní úkoly, které se týkají publikace otevřených dat a zpřístupnění mých dat formou dynamických dat prostřednictvím API rozhraní.
     - Do IK zanesu také konkrétní úkoly, které vedou k větší otevřenosti ICT správy a řešení, včetně maximálního využívání OS platforem, ale třeba i povinnou publikaci pro mne vytvořeného programového kódu tak, aby mnou zadaná programová tvorba mohla být znovu použitá zbytkem veřejné správy.
     - Při formulaci mých zásad pro pořizování a změny informačních systémů si jako jednu ze zásad osvojím právě i realizaci dodávek úprav software tak, aby byl znovupoužitelný. Nezapomenu přitom ani na souvislosti v dokumentaci takového kódu a jeho publikování na vládním či jiném veřejném GIT úložišti.
-** NEZAHÁJENO Vyžadovat OS ve svých řešeních po dodavatelích
-** NEZAHÁJENO Zavést pozitivní bonifikaci otevřených řešení v hodnocení nabídek
+** KEKOREKTUŘE Vyžadovat OS ve svých řešeních po dodavatelích
+Otevřenost je základní premisou efektivního a udržitelného postupu při budování informačních systémů. Proprietární systémy znamenají omezení práv organizace při budoucím rozhodování o realizaci vlastního ICT. Proto je nezbytné ve svých řešením klást od počátku důraz na dostatečnou otevřenost dodávaných systémů a to jak v oblasti technologií, tak oblasti znalostí související s danou problematikou.
+** KEKOREKTUŘE Zavést pozitivní bonifikaci otevřených řešení v hodnocení nabídek
+Vnitřními předpisy či na základě globálních požadavků založených na standardech v rámci IK zavést pozitivní bonifikaci při použití otevřených řešení. Tímto pozitivním způsobem podpořit plnění požadavků na otevřenost. Zřetelně tak dodavatelům sdělit  připravenost a odhodlání v rámci realizovaných výběrových řízení naplňovat veškeré požadavky na otevřenost a to v plném rozsahu, který je dán právními předpisy a to zcela a bez výhrad. 
 ** KEKOREKTUŘE Udělat si asessment toho, kde už OS mám a kde ho můžu a chci mít
    :LOGBOOK:
    CLOCK: [2022-02-03 Thu 11:30]--[2022-02-03 Thu 11:51] =>  0:21
@@ -68,7 +70,8 @@ Způsoby konkrétní realizace mohou vypadat kupříkladu takto:
 Organizace by měla mít přehled o svých ICT řešeních. To platí nejen pro komplexní informační systémy, ale i pro aplikace a infrastrukturní technologie. Součástí tohoto asessmentu má být i znalost a přehled, zda a kde a v jaké míře již organizace otevřená řešení využívá.
 
 To může využít pro argumentaci, že si související principy a zásady otevřenosti plní, ale může to být i základ pro větší otevírání ICT řešení v budoucnu. Velice často se setkáváme s tím, že organizace ani netuší, kde už open-source řešení či platformy využívají a nedokážou si tak ani částečnou otevřenost dostatečně obhájit.
-** NEZAHÁJENO Vybudovat si závazná technologická prostředí a vyžadovat je pro nové dodávky
+** KEKOREKTUŘE Vybudovat si závazná technologická prostředí a vyžadovat je pro nové dodávky
+Organizace by měla být schopna vybudovat otevřená závazná technologická prostředí, která umožní efektivně budovat a spravovat komlexní informační systémy standardizovaných postupem. Tato univerzální prostředí umožní zajišťovat snadnější přenos znalostí mezi dodavatelem a organizací a rovněž následně tyto znalosti sdílet nezávisle na původním dodavateli.
 ** NEZAHÁJENO Při každé poptávce zjistit, zda existuje OS a primárně poptat ten, teprve pak proprietární řešení
 ** NEZAHÁJENO Pokud nebude řešení otevřené, požadovat jeho uvolnění, kódy, práva
 ** ROZPRACOVANÉ a tohle vše uplatnit i pro stávající systémy a řešení
