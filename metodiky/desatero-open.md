@@ -46,8 +46,10 @@ Kromě přenesení národních princippů a zásad a cílů z IK, musí úřady 
     -   Při formulaci mých zásad pro pořizování a změny informačních systémů si jako jednu ze zásad osvojím právě i realizaci dodávek úprav software tak, aby byl znovupoužitelný. Nezapomenu přitom ani na souvislosti v dokumentaci takového kódu a jeho publikování na vládním či jiném veřejném GIT úložišti.
 
 ## 🖋Vyžadovat OS ve svých řešeních po dodavatelích
+Otevřenost je základní premisou efektivního a udržitelného postupu při budování informačních systémů. Proprietární systémy mohou znamenat omezení práv organizace při budoucím rozhodování o realizaci vlastního ICT. Proto je nezbytné ve svých řešením klást od počátku důraz na dostatečnou otevřenost dodávaných systémů a to jak v oblasti technologií, tak oblasti znalostí související s danou problematikou. Zajištění otevřenosti však není možné zjednodušit pouze na téma majetkových práv. Cílem by mělo být zajištění dlouhodobé udržitelnosti dodaných systémů a schopnosti férově rozhodovat budoucnosti vlastního ICT.
 
 ## 🖋Zavést pozitivní bonifikaci otevřených řešení v hodnocení nabídek
+Vnitřními předpisy či na základě globálních požadavků založených na standardech v rámci IK zavést pozitivní bonifikaci při použití otevřených řešení. Tímto pozitivním způsobem podpořit plnění požadavků na otevřenost. Zřetelně tak dodavatelům sdělit  připravenost a odhodlání v rámci realizovaných výběrových řízení naplňovat veškeré požadavky na otevřenost dané zákonem či vyhláškami a to v plném rozsahu, který je dán právními předpisy a to zcela a bez výhrad. 
 
 ## KEKOREKTUŘE Udělat si asessment toho, kde už OS mám a kde ho můžu a chci mít
 
