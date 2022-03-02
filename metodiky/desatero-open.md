@@ -18,7 +18,7 @@ Otevřenost je důležitá. Stejně důležité ale také je, jak k ní správn�
 
 ## 🖋Při přebírání principů a zásad z IKČR je správně pochopit a adoptovat
 
-## KEKOREKTUŘE Do svých principů si dát i ty k otevřenosti a OS
+## Do svých principů si dát i ty k otevřenosti a OS
 
 Kdykoliv bude organizace tvořit IT strategii, nebo informační koncepci, musí správně adoptovat související principy a zásady z Informační koncepce ČR.
 
@@ -51,7 +51,7 @@ Otevřenost je základní premisou efektivního a udržitelného postupu při bu
 ## 🖋Zavést pozitivní bonifikaci otevřených řešení v hodnocení nabídek
 Vnitřními předpisy či na základě globálních požadavků založených na standardech v rámci IK zavést pozitivní bonifikaci při použití otevřených řešení. Tímto pozitivním způsobem podpořit plnění požadavků na otevřenost. Zřetelně tak dodavatelům sdělit  připravenost a odhodlání v rámci realizovaných výběrových řízení naplňovat veškeré požadavky na otevřenost dané zákonem či vyhláškami a to v plném rozsahu, který je dán právními předpisy a to zcela a bez výhrad. 
 
-## KEKOREKTUŘE Udělat si asessment toho, kde už OS mám a kde ho můžu a chci mít
+## Udělat si asessment toho, kde už OS mám a kde ho můžu a chci mít
 
 Organizace by měla mít přehled o svých ICT řešeních. To platí nejen pro komplexní informační systémy, ale i pro aplikace a infrastrukturní technologie. Součástí tohoto asessmentu má být i znalost a přehled, zda a kde a v jaké míře již organizace otevřená řešení využívá.
 
