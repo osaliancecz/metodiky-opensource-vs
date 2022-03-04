@@ -62,6 +62,7 @@ To může využít pro argumentaci, že si související principy a zásady otev
 Organizace musí mít v rámci své informační koncepce jasně popsány zásady pro své technologické prostředí, ve kterém informační systémy provozuje a do budoucna bude provozovat. Tyto zásady je organizace povinna zavést pro stávající informační systémy a vybudovat tak závazné technologické prostředí pro jejich bezpečný a bezproblémový chod. V rámci vývoje a akvizice nových informačních systémů musí pak organizace tyto zásady dodržovat a jejich požadavky promítnout do poptávek.
 
 ## 🖋Při každé poptávce zjistit, zda existuje OS a primárně poptat ten, teprve pak proprietární řešení
+Snažit se být nezávislý na proprietárních řešeních, pokud to jen trochu lze. Hledat taková řešení, která vám umožní v budoucnu svobodnou volbu při výběru dodavatele vašeho informačního systému. Hned od počátku nastavit svoje chování tak, aby jste si nezkomplikovali budoucí rozhodování. Samozřejmě ne vždy otevřená řešení pro daný problém naleznete nebo pro vás nebudou mít dostatečnou přidanou hodnotu. To ale nevadí, pokud začtete hned na začátku, budete připraveni.
 
 ## 🖋Pokud nebude řešení otevřené, požadovat jeho uvolnění, kódy, práva
 
