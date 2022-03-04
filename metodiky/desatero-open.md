@@ -65,5 +65,8 @@ Organizace musí mít v rámci své informační koncepce jasně popsány zásad
 Snažit se být nezávislý na proprietárních řešeních, pokud to jen trochu lze. Hledat taková řešení, která vám umožní v budoucnu svobodnou volbu při výběru dodavatele vašeho informačního systému. Hned od počátku nastavit svoje chování tak, aby jste si nezkomplikovali budoucí rozhodování. Samozřejmě ne vždy otevřená řešení pro daný problém naleznete nebo pro vás nebudou mít dostatečnou přidanou hodnotu. To ale nevadí, pokud začtete hned na začátku, budete připraveni.
 
 ## 🖋Pokud nebude řešení otevřené, požadovat jeho uvolnění, kódy, práva
+Ne vždy najdete to co hledáte. Určitě budou situace, kdy vaše problémy nebude schopen vyřešit žádný otevřený software. To by vás nemělo odradit od přání a zájmu mít váš systém otevřený. Pokud jste za dodávku férově zaplatili, chtějte stejně férový přístup ze strany dodavatele.  Není možné obecně deklarovat detailní postupy, ty jsou vždy specifické.  
+
+Požadujte tedy uvolnění práv užití dodávaného softwaru. Požadujte přístup ke zdrojovým kódům. Požadujte kvalitní dokumentaci. 
 
 ## 🖋a tohle vše uplatnit i pro stávající systémy a řešení
